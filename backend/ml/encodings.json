@@ -1,0 +1,51 @@
+{
+  "soil_types": {
+    "Acidic": 0,
+    "Alkaline": 1,
+    "Loamy": 2
+  },
+  "crop_types": {
+    "apple": 0,
+    "banana": 1,
+    "blackgram": 2,
+    "chickpea": 3,
+    "coconut": 4,
+    "coffee": 5,
+    "cotton": 6,
+    "grapes": 7,
+    "jute": 8,
+    "kidneybeans": 9,
+    "lentil": 10,
+    "maize": 11,
+    "mango": 12,
+    "mothbeans": 13,
+    "mungbean": 14,
+    "muskmelon": 15,
+    "orange": 16,
+    "papaya": 17,
+    "pigeonpeas": 18,
+    "pomegranate": 19,
+    "rice": 20,
+    "watermelon": 21
+  },
+  "fertilizers": {
+    "DAP": 0,
+    "MOP": 1,
+    "NPK": 2,
+    "Urea": 3
+  },
+  "model_metrics": {
+    "r2": 0.6638,
+    "rmse": 2.1768,
+    "mae": 1.7307
+  },
+  "feature_importances": {
+    "temperature": 0.07618408225781649,
+    "rainfall": 0.700662890626244,
+    "humidity": 0.12995762275256498,
+    "soil_type": 0.007968276463388565,
+    "crop_type": 0.00831472731072627,
+    "fertilizer": 0.005584439461219287,
+    "area": 0.07132796112804052
+  }
+}

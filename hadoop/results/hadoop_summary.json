@@ -1,0 +1,298 @@
+{
+  "crop_yield": [
+    {
+      "crop": "apple",
+      "count": 100,
+      "avg_yield": 10.5016,
+      "min_yield": 5.0937,
+      "max_yield": 15.6976,
+      "total_yield": 1050.1627
+    },
+    {
+      "crop": "banana",
+      "count": 100,
+      "avg_yield": 9.559,
+      "min_yield": 5.088,
+      "max_yield": 15.3445,
+      "total_yield": 955.901
+    },
+    {
+      "crop": "blackgram",
+      "count": 100,
+      "avg_yield": 7.3913,
+      "min_yield": 2.7672,
+      "max_yield": 13.1405,
+      "total_yield": 739.1265
+    },
+    {
+      "crop": "chickpea",
+      "count": 100,
+      "avg_yield": 5.5139,
+      "min_yield": 0.0735,
+      "max_yield": 11.3702,
+      "total_yield": 551.3883
+    },
+    {
+      "crop": "coconut",
+      "count": 100,
+      "avg_yield": 13.895,
+      "min_yield": 6.9945,
+      "max_yield": 19.4907,
+      "total_yield": 1389.4966
+    },
+    {
+      "crop": "coffee",
+      "count": 100,
+      "avg_yield": 11.0877,
+      "min_yield": 6.1739,
+      "max_yield": 16.0577,
+      "total_yield": 1108.7682
+    },
+    {
+      "crop": "cotton",
+      "count": 100,
+      "avg_yield": 8.3794,
+      "min_yield": 3.2396,
+      "max_yield": 13.5005,
+      "total_yield": 837.9412
+    },
+    {
+      "crop": "grapes",
+      "count": 100,
+      "avg_yield": 7.8079,
+      "min_yield": 1.327,
+      "max_yield": 13.2137,
+      "total_yield": 780.7948
+    },
+    {
+      "crop": "jute",
+      "count": 100,
+      "avg_yield": 12.5825,
+      "min_yield": 7.7483,
+      "max_yield": 21.0144,
+      "total_yield": 1258.2499
+    },
+    {
+      "crop": "kidneybeans",
+      "count": 100,
+      "avg_yield": 6.9454,
+      "min_yield": 0.7609,
+      "max_yield": 14.4193,
+      "total_yield": 694.5433
+    },
+    {
+      "crop": "lentil",
+      "count": 100,
+      "avg_yield": 5.8433,
+      "min_yield": 0.4019,
+      "max_yield": 12.4295,
+      "total_yield": 584.3337
+    },
+    {
+      "crop": "maize",
+      "count": 100,
+      "avg_yield": 7.8167,
+      "min_yield": 2.8286,
+      "max_yield": 12.5225,
+      "total_yield": 781.665
+    },
+    {
+      "crop": "mango",
+      "count": 100,
+      "avg_yield": 7.8505,
+      "min_yield": 2.3802,
+      "max_yield": 15.6034,
+      "total_yield": 785.0511
+    },
+    {
+      "crop": "mothbeans",
+      "count": 100,
+      "avg_yield": 5.9838,
+      "min_yield": 1.3967,
+      "max_yield": 11.5654,
+      "total_yield": 598.378
+    },
+    {
+      "crop": "mungbean",
+      "count": 100,
+      "avg_yield": 6.7859,
+      "min_yield": 2.7041,
+      "max_yield": 10.6304,
+      "total_yield": 678.5892
+    },
+    {
+      "crop": "muskmelon",
+      "count": 100,
+      "avg_yield": 5.9026,
+      "min_yield": 0.1766,
+      "max_yield": 10.7704,
+      "total_yield": 590.258
+    },
+    {
+      "crop": "orange",
+      "count": 100,
+      "avg_yield": 10.3067,
+      "min_yield": 4.8404,
+      "max_yield": 15.2131,
+      "total_yield": 1030.67
+    },
+    {
+      "crop": "papaya",
+      "count": 100,
+      "avg_yield": 12.0723,
+      "min_yield": 3.3634,
+      "max_yield": 18.8081,
+      "total_yield": 1207.2315
+    },
+    {
+      "crop": "pigeonpeas",
+      "count": 100,
+      "avg_yield": 10.5606,
+      "min_yield": 3.1213,
+      "max_yield": 15.9514,
+      "total_yield": 1056.0554
+    },
+    {
+      "crop": "pomegranate",
+      "count": 100,
+      "avg_yield": 10.2155,
+      "min_yield": 5.6128,
+      "max_yield": 13.772,
+      "total_yield": 1021.5476
+    },
+    {
+      "crop": "rice",
+      "count": 100,
+      "avg_yield": 16.1163,
+      "min_yield": 11.1251,
+      "max_yield": 21.4049,
+      "total_yield": 1611.6299
+    },
+    {
+      "crop": "watermelon",
+      "count": 100,
+      "avg_yield": 6.838,
+      "min_yield": 1.8249,
+      "max_yield": 10.703,
+      "total_yield": 683.8005
+    }
+  ],
+  "soil_performance": [
+    {
+      "soil": "Acidic",
+      "count": 573,
+      "avg_yield": 9.278,
+      "std_yield": 3.4224,
+      "min_yield": 0.4019,
+      "max_yield": 20.9988
+    },
+    {
+      "soil": "Alkaline",
+      "count": 185,
+      "avg_yield": 7.6244,
+      "std_yield": 3.499,
+      "min_yield": 0.9376,
+      "max_yield": 20.6587
+    },
+    {
+      "soil": "Loamy",
+      "count": 1442,
+      "avg_yield": 9.2017,
+      "std_yield": 3.5719,
+      "min_yield": 0.0735,
+      "max_yield": 21.4049
+    }
+  ],
+  "temp_yield_correlation": [
+    {
+      "temp_range": "10-12\u00b0C",
+      "count": 19,
+      "avg_yield": 8.827
+    },
+    {
+      "temp_range": "12-14\u00b0C",
+      "count": 13,
+      "avg_yield": 8.2299
+    },
+    {
+      "temp_range": "14-16\u00b0C",
+      "count": 15,
+      "avg_yield": 7.9652
+    },
+    {
+      "temp_range": "16-18\u00b0C",
+      "count": 61,
+      "avg_yield": 6.6228
+    },
+    {
+      "temp_range": "18-20\u00b0C",
+      "count": 177,
+      "avg_yield": 7.4148
+    },
+    {
+      "temp_range": "20-22\u00b0C",
+      "count": 165,
+      "avg_yield": 9.2149
+    },
+    {
+      "temp_range": "22-24\u00b0C",
+      "count": 319,
+      "avg_yield": 10.4369
+    },
+    {
+      "temp_range": "24-26\u00b0C",
+      "count": 408,
+      "avg_yield": 9.6345
+    },
+    {
+      "temp_range": "26-28\u00b0C",
+      "count": 373,
+      "avg_yield": 9.2388
+    },
+    {
+      "temp_range": "28-30\u00b0C",
+      "count": 346,
+      "avg_yield": 8.1536
+    },
+    {
+      "temp_range": "30-32\u00b0C",
+      "count": 117,
+      "avg_yield": 8.0363
+    },
+    {
+      "temp_range": "32-34\u00b0C",
+      "count": 68,
+      "avg_yield": 9.7333
+    },
+    {
+      "temp_range": "34-36\u00b0C",
+      "count": 52,
+      "avg_yield": 9.1613
+    },
+    {
+      "temp_range": "36-38\u00b0C",
+      "count": 16,
+      "avg_yield": 12.031
+    },
+    {
+      "temp_range": "38-40\u00b0C",
+      "count": 17,
+      "avg_yield": 11.0055
+    },
+    {
+      "temp_range": "40-42\u00b0C",
+      "count": 14,
+      "avg_yield": 12.0686
+    },
+    {
+      "temp_range": "42-44\u00b0C",
+      "count": 14,
+      "avg_yield": 12.2947
+    },
+    {
+      "temp_range": "8-10\u00b0C",
+      "count": 6,
+      "avg_yield": 6.3178
+    }
+  ]
+}
